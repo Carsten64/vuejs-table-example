@@ -1,0 +1,14 @@
+[
+    {    
+        "name": "Germany",
+        "goldMedals": 14,
+        "silverMedals": 10,
+        "bronzeMedals": 7
+    },
+    {    
+        "name": "Norway",
+        "goldMedals": 14,
+        "silverMedals": 14,
+        "bronzeMedals": 11
+    }
+]
